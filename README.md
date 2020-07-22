@@ -1,3 +1,5 @@
+# Hlavní vývoj CityVizoru je nyní na repozitáři CityVizor/CityVizor. Tento repozitář obsahuje historický snapshot.
+
 # CityVizor Server
 
 [![dependencies](https://david-dm.org/otevrena-data-mfcr/CityVizor-server.svg)](https://david-dm.org/otevrena-data-mfcr/CityVizor-server)
